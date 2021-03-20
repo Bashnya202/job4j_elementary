@@ -17,6 +17,4 @@ public class Fit {
         double wooman = Fit.woomanWeight(height);
         System.out.println("Man 168 is " + wooman);
     }
-
-
 }
