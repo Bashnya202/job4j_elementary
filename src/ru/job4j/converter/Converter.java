@@ -16,5 +16,6 @@ public class Converter {
         System.out.println("210 rub= " + euro + " euro");
         int dollar = Converter.rubleToDolar(120);
         System.out.println("120 rub = " + dollar +" dollar");
+
     }
 }
