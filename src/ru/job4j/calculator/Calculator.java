@@ -15,6 +15,11 @@ public class Calculator {
         System.out.println(sixDivTwo);
         System.out.println(fiveMinusTwo);
         System.out.println(fourTimeTwo);
+
+        int size1 = 10;
+        size1=100;
+        size1=size1-5;
+        System.out.println(size1);
     }
 }
 //1.В методе main создайте дополнительные переменные,кроме тех,что уже созданы.
@@ -29,3 +34,14 @@ public class Calculator {
 //
 //        3.Выведите на консоль переменные sixDivTwo,fiveMinusTwo,fourTimeTwo.
 //        4.Загрузите файл ru.job4j.calculator.Calculator на сайт github.com и оставьте ссылку на изменения.
+
+//1. В комментарии к этой задаче напишите код.
+//
+//        В коде нужно объявить переменную size типа int и присвоить ей значение 10.
+//
+//        Далее нужно назначить этой же переменной значение 100.
+//
+//        Потом нужно отнять от переменной size число 5, и результат записать опять в переменную size.
+//
+//        В вашем коде будет создана только одна переменная size.
+
